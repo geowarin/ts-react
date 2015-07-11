@@ -19,7 +19,7 @@ Typescript [recently added](http://www.jbrantly.com/typescript-and-jsx) support 
 It will be part of typescript 1.6. In the meantime, the example is using a [nightly build](https://github.com/TypeStrong/ntypescript) of typescript.
 
 It is a very interesting language.
-It gives you autocompletion, all sorts of refactoring and compile time errors (for react components props for examples!).
+It gives you autocompletion, all sorts of refactorings and compile time errors (for react components props for examples!).
 
 Give it a shot, it might change the way you develop :)
 
