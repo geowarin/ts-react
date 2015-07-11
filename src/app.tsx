@@ -10,4 +10,4 @@ class MyComponent extends React.Component<Props, {}> {
 	}
 }
 
-React.render(<MyComponent content="Hello World" />, document.body);
+React.render(<MyComponent content="Hello Worlds" />, document.body);
