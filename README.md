@@ -6,6 +6,8 @@ Typescript, react and webpack hot reload
     npm install
     npm start
 
+Application will launch on http://localhost:3000
+
 ## Editing
 
 Use [atom](https://atom.io/) with the awesome [Typescript plugin](https://atom.io/packages/atom-typescript).
