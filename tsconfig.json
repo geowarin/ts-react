@@ -1,9 +1,16 @@
 {
-	"compilerOptions": {
-		"jsx": "react"
-	},
-	"files": [
-		"src/react.d.ts",
-		"src/react-jsx.d.ts"
-	]
+    "compilerOptions": {
+        "target": "es5",
+        "jsx": "react",
+        "module": "commonjs"
+    },
+    "filesGlob": [
+        "./src/**/*.tsx",
+        "!./node_modules/**/*.ts"
+    ],
+    "files": [
+        "./src/App.tsx",
+        "./src/index.tsx"
+    ],
+    "compileOnSave": false
 }
