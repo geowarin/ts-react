@@ -1,0 +1,22 @@
+{
+  "name": "ts-react",
+  "version": "1.0.0",
+  "description": "This test demonstrates the new JSX functionality of TypeScript.",
+  "main": "app.tsx",
+  "scripts": {
+    "start": "node server.js",
+    "build": "webpack .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Geoffroy Warin",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "ntypescript": "^1.201507091536.1",
+    "ts-loader": "^0.4.6",
+    "webpack": "^1.10.1",
+    "webpack-dev-server": "^1.10.1"
+  }
+}

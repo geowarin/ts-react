@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"jsx": "react"
+	},
+	"files": [
+		"src/react.d.ts",
+		"src/react-jsx.d.ts"
+	]
+}
